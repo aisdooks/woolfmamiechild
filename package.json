@@ -1,0 +1,33 @@
+{
+  "name": "woolfmamiechild",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "woolfmamiechild.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aisdooks/woolfmamiechild"
+  },
+  "website": "https://github.com/aisdooks/woolfmamiechild.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "aisdooks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aisdooks/woolfmamiechild/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/aisdooks/woolfmamiechild#readme",
+  "dependencies": {
+    "abnerjoemegan": "1.0.2"
+  }
+}
